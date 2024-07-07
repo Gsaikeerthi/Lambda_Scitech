@@ -36,7 +36,10 @@ In the browser type
 127.0.0.1/yourfoldername/Library
 
 Contributors
+Frontend:-
+CS22BTECH11050 - S.Bhavya Shloka
+CS22BTECH11024 - G.Sai Keerthi 
 
-CS22BTECH11024 - G.Sai Keerthi (Frontend)
-
-CS22BTECH11050 - Rishitha Surineni (Backend)
+Backend:-
+CS22BTECH11042 - Nalavolu Chetana
+CS22BTECH11050 - Rishitha Surineni
